@@ -8,11 +8,9 @@ Feature extraction using TF-IDF / Word Embeddings
 
 Machine learning models: Logistic Regression, Naïve Bayes, Random Forest, SVM
 
-Deep learning extension (optional): LSTM / BERT
+Model evaluation using accuracy, precision, recall and F1-score
 
-Model evaluation using accuracy, precision, recall, F1-score
-
-Visualization of confusion matrix and feature importance
+Visualization of the confusion matrix and feature importance
 
 Jupyter Notebook with step-by-step implementation
 
@@ -20,9 +18,6 @@ Jupyter Notebook with step-by-step implementation
 The project uses publicly available datasets such as:
 
 Kaggle Fake News Dataset
-
-LIAR Dataset
-
 🧠 Workflow
 Data Cleaning & Preprocessing
 
@@ -32,12 +27,8 @@ Training multiple ML models
 
 Model comparison and evaluation
 
-(Optional) Deploying the best model with Flask / Streamlit
-
 📊 Results
 Achieved high accuracy in detecting fake news using Logistic Regression & Random Forest.
-
-Deep learning models like LSTM improved contextual understanding.
 
 🔮 Future Work
 Experiment with Transformer-based models (BERT, RoBERTa)
